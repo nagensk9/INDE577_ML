@@ -2,7 +2,6 @@
 
 ## Overview
 - Linear Regression is a simple yet powerful and widely used algorithm in data science.
-- There are numerous real-world applications of Linear Regression.
 - This comprehensive guide will introduce you to Linear Regression.
 
 ## Introduction
@@ -23,8 +22,10 @@
 
 - The goal of linear regression is to find the best-fit line that minimizes the error between the predicted values and the actual values.
 - This is achieved by determining the optimal values for the intercept (β<sub>0</sub>) and slope (β<sub>1</sub>) of the line.
+<img src="https://github.com/nagensk9/INDE577_ML/blob/main/Images/Linear_regression_formula.jpg?raw=true" ><br>
 
 ## Best Fit Line
+
 - The best fit line is a line that fits the given scatter plot in the best way.
 - Mathematically, the best fit line is obtained by minimizing the Residual Sum of Squares (RSS), which measures the difference between the expected and actual observed outputs.
 - The equation for RSS is:
@@ -34,6 +35,7 @@
     where y<sub>predicted</sub> is the predicted value, and y<sub>i</sub> is the actual observed value for each data point.
 
 - The best fit line is obtained by minimizing the RSS and finding the values of β<sub>0</sub> and β<sub>1</sub> that result in the minimum error.
+<img src="https://github.com/nagensk9/INDE577_ML/blob/main/Images/Linear_regression.gif?raw=true" width=400>
 
 ## Cost Function for Linear Regression
 - The cost function helps determine the optimal values for β<sub>0</sub> and β<sub>1</sub> that provide the best fit line for the data points.
@@ -101,7 +103,3 @@ Where:
 - y_predicted: Predicted value
 - y_actual: Actual value
 RMSE quantifies the average magnitude of the residuals and indicates how close the observed data points are to the predicted values. A lower RMSE value indicates a better fit of the model to the data.
-
-## Conclusion
-This article has provided an in-depth understanding of linear regression, covering the formulation of simple linear regression, the concept of the best-fit line, the cost function (MSE), gradient descent optimization, and evaluation metrics such as R-Squared and RMSE. By grasping these concepts and formulas, you can gain a solid foundation in linear regression and effectively apply it to real-world datasets. Linear regression serves as a fundamental algorithm in data science and can be a powerful tool for predictive analysis and modeling.
-
