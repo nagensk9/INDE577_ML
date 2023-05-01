@@ -2,10 +2,14 @@
 # Support Vector Machines 
 
 ## Introduction
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/1.%20Supervised%20Machine%20Learning/7-%20Support%20Vector%20Machine/images/SVM_def.png?raw=true" width=300></p><br>
+
 Support Vector Machines (SVM) is a supervised learning algorithm that can solve linear and non-linear classification and regression problems. SVM is especially effective in scenarios where the data is not linearly separable and requires complex decision boundaries.
 
 ## How Does SVM Work?
 The primary goal of SVM is to find an optimal hyperplane in a high-dimensional feature space that maximally separates the data points belonging to different classes. This hyperplane is called the **decision boundary**. SVM achieves this by transforming the input data into a higher-dimensional feature space through a **kernel function**.
+
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/1.%20Supervised%20Machine%20Learning/7-%20Support%20Vector%20Machine/images/SVM.gif?raw=true" width=500></p><br>
 
 
 ## Introduction to Support Vector Regression (SVR)
