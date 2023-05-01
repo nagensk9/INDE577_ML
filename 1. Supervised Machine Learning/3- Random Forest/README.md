@@ -1,7 +1,7 @@
 # Random Forest Regression
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/Images/Random%20Forest/Random%20Forest.gif?raw=true" width=900></p><br>
 
-
-## Introduction to Random Forest Regression
+## Introduction
 Random Forest Regression is an extension of the Random Forest algorithm, which is based on the concept of ensemble learning. Ensemble learning combines the predictions of multiple models to make more accurate and robust predictions. In the case of Random Forest Regression, the individual models are decision trees.
 
 ## What is Random Forest Regression?
