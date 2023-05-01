@@ -1,7 +1,9 @@
 
 # Ensemble Learning (XGBoost)
 
+
 ## Overview
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/1.%20Supervised%20Machine%20Learning/4-%20Ensemble/images/Ensemble_.png?raw=true" width=600 height=400></p><br>
 - Ensemble learning is a powerful approach in machine learning that combines the predictions of multiple models to make accurate and robust predictions.
 - Boosting and Bagging are two popular techniques used in ensemble learning.
 - This comprehensive guide will introduce you to ensemble learning, specifically focusing on Boosting and Bagging, and provide implementations in Python using real-world datasets.
@@ -13,11 +15,12 @@ Ensemble learning is a technique where multiple models are combined to make pred
 Boosting is a sequential ensemble learning technique where weak learners are combined to create a strong learner. It works by iteratively training weak models, such as decision trees, and giving more importance to the misclassified instances in subsequent iterations. The final prediction is made by aggregating the predictions of all the weak models.
 
 Boosting algorithms, such as AdaBoost and Gradient Boosting, have gained popularity due to their ability to handle complex patterns and achieve high accuracy. These algorithms aim to reduce bias and improve generalization by emphasizing the challenging instances in the training data.
-
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/1.%20Supervised%20Machine%20Learning/4-%20Ensemble/images/Bagging.gif?raw=true" width=600 height=400></p><br>
 ## Bagging: Another Ensemble Learning Technique
 Bagging, short for Bootstrap Aggregating, is another ensemble learning technique that involves training multiple models on different subsets of the training data. Each model is trained independently, and the final prediction is made by averaging or majority voting over the predictions of all the models.
 
 Bagging algorithms, such as Random Forest, create an ensemble of decision trees. The key idea is to reduce the variance by averaging the predictions of multiple trees trained on different subsets of the data. Bagging techniques are known for their ability to handle noisy data and reduce overfitting.
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/1.%20Supervised%20Machine%20Learning/4-%20Ensemble/images/Boosting.gif?raw=true" width=600 height=400></p><br>
 
 ## Why Do We Need Ensemble Learning?
 Ensemble learning offers several advantages:
@@ -56,4 +59,7 @@ XGBoost models can be evaluated using various metrics to assess their performanc
 3. **Mean Absolute Error (MAE)**: MAE measures the average absolute difference between the predicted and actual values. It provides a measure of the average magnitude of the errors made by the model.
 
 ## Conclusion
-XGBoost is a powerful ensemble learning algorithm for regression tasks, offering enhanced performance, flexibility, and feature importance analysis. It combines multiple weak
+XGBoost is a powerful ensemble learning algorithm for regression tasks, offering enhanced performance, flexibility, and feature importance analysis. 
+
+## References
+The images are taken from [here](https://machinelearningknowledge.ai/gentle-introduction-to-ensemble-learning-for-beginners)
