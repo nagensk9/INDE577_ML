@@ -3,7 +3,7 @@
 
 ## Introduction
 Welcome to the captivating world of unsupervised learning, where machines can learn and discover hidden patterns from unlabelled data without any explicit guidance. Unsupervised learning is like a magical journey of exploration and creativity, where algorithms can unleash their potential and uncover insights that might have otherwise remained hidden. In this article, we will embark on an exciting adventure to understand unsupervised learning, its applications, and its remarkable capabilities.
-
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:828/1*z2bFBTFYz6l6bbpV4FhZWw.gif" ></p>
 ## The Art of Discovery
 Unsupervised learning is a branch of machine learning that aims to find patterns and structures in unlabeled data. Unlike supervised learning, where data is labeled with explicit answers, unsupervised learning empowers algorithms to discover patterns on their own, making it a powerful tool for data exploration and knowledge discovery.
 
