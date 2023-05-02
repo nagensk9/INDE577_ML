@@ -3,6 +3,7 @@
 
 ## Introduction: Learning by Playing
 Imagine a world where machines learn to make smart decisions just like humans do. Reinforcement learning brings this idea to life by enabling agents to learn optimal behaviors through interaction with their environment. In this exciting journey into the realm of reinforcement learning, we will explore the principles, concepts, and applications of this powerful technique. Get ready to unlock the power of learning through play!
+<p align="center"><img src="https://editor.analyticsvidhya.com/uploads/496302.jpg" ></p>
 
 ## The Playground of Reinforcement Learning
 Reinforcement learning takes place in a playground where an agent interacts with an environment. Let's understand the key players in this fascinating game:
