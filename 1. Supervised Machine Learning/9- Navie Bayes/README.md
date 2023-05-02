@@ -1,14 +1,12 @@
 
 # Naive Bayes Classifier:
 
-## Overview
-Naive Bayes Classifier is a simple yet powerful probabilistic algorithm widely used for classification tasks. It is based on Bayes' theorem and assumes independence between the features. Naive Bayes is particularly useful when working with large datasets and high-dimensional feature spaces. In this comprehensive guide, we will delve into the principles of Naive Bayes, explain its model representation, training process, evaluation metrics, and demonstrate its implementation in Python.
-
 ## Introduction
 Naive Bayes Classifier is a supervised learning algorithm that predicts the probability of an instance belonging to a certain class based on its features. It is "naive" because it assumes that the features are conditionally independent given the class, meaning that the presence or absence of a particular feature does not affect the presence or absence of other features. Despite this assumption, Naive Bayes has shown excellent performance in many real-world applications, including text classification, spam detection, and sentiment analysis.
 
 ## Model Representation
 The Naive Bayes Classifier model is represented by the following equation:
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:1200/1*ZW1icngckaSkivS0hXduIQ.jpeg" width=500></p>
 
 ![Naive Bayes Equation](https://latex.codecogs.com/png.latex?P%28C_k%20%7C%20x_1%2C%20x_2%2C%20...%2C%20x_n%29%20%3D%20%5Cfrac%7BP%28C_k%29%20%5Ctimes%20P%28x_1%2C%20x_2%2C%20...%2C%20x_n%20%7C%20C_k%29%7D%7BP%28x_1%2C%20x_2%2C%20...%2C%20x_n%29%7D)
 
@@ -45,8 +43,3 @@ Naive Bayes Classifier models are evaluated using various metrics to assess thei
 - **ROC Curve**: The ROC curve is a graphical representation of the trade-off between the true positive rate and the false positive rate. It helps assess the model's performance across different probability thresholds.
 
 - **Area Under the ROC Curve (AUC-ROC)**: AUC-ROC summarizes the performance of the model across all possible probability thresholds. It provides a single metric that represents the overall discriminative power of the model.
-
-
-
-## Conclusion
-Naive Bayes Classifier is a powerful and efficient algorithm for classification tasks. Despite its assumption of feature independence, it often performs well and is particularly useful when dealing with large datasets and high-dimensional feature spaces. 
