@@ -1,6 +1,7 @@
 
 # K-means Clustering: Uncover Patterns and Groupings in Your Data!
 
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif" width=300></p>
 
 
 ## Introduction to K-means Clustering
