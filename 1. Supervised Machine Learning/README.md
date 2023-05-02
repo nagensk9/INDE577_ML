@@ -3,7 +3,7 @@
 
 ## Introduction
 Welcome to the exciting world of supervised learning! In this captivating journey, we will explore the principles, applications, and magic of this learning paradigm. Supervised learning is like having a wise mentor guiding you every step of the way, showing you how to make predictions and make sense of the world. So, fasten your seatbelt and get ready to unleash the power of guided learning!
-
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/blob/main/Images/supervised_learning.gif" ></p>
 ## The Guided Path
 In supervised learning, we embark on a guided path where we have access to a labeled dataset. It's like having a treasure map with valuable clues that guide us towards understanding and predicting the unknown. Our goal is to build a predictive model that can accurately map inputs to their corresponding outputs based on the available labeled data.
 
