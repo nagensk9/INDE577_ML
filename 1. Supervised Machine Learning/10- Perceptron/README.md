@@ -1,11 +1,9 @@
 
 # Perceptron
 
-## Overview
-The Perceptron algorithm is a fundamental supervised learning algorithm used for binary classification tasks. It is a simple yet powerful algorithm that forms the basis for more advanced neural network models. In this comprehensive guide, we will explore the principles of the Perceptron algorithm, its model representation, training process, evaluation metrics, and provide an implementation example in Python.
-
 ## Introduction
 The Perceptron algorithm was developed in the late 1950s as one of the earliest neural network models. It is based on the concept of an artificial neuron called a "perceptron" that mimics the behavior of a biological neuron. The Perceptron algorithm learns to classify input data into two classes by adjusting the weights and biases of the perceptron.
+<p align="center"><img src="https://databasecamp.de/wp-content/uploads/perceptron-strucuture-1024x709.png" width=500></p>
 
 ## Model Representation
 The Perceptron model can be represented as follows:
