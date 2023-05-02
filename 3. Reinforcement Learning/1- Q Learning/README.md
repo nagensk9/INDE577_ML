@@ -1,8 +1,9 @@
 
 # Q-Learning: 
+<p align="center"><img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1666973295/Q_Learning_Header_336c3f8177.png" width=400></p>
 
 
-## Introduction to Q-Learning
+## Introduction
 Q-learning is a model-free reinforcement learning algorithm that enables an agent to learn optimal actions in an environment by estimating the value of state-action pairs. It is based on the concept of a Q-table, which stores the expected utility (Q-value) for each possible state-action pair. Through exploration and exploitation, the agent learns the best actions to maximize its cumulative reward.
 
 ## Key Concepts of Q-Learning
