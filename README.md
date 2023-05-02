@@ -1,5 +1,5 @@
 
-# # INDE 577 Data Science and Machine Learning
+# INDE 577 Data Science and Machine Learning
 
 This repository contains code for performing exploratory data analysis (EDA) and implementing various machine learning models. The primary dataset used in this repository will be included in the `data` folder.
 
