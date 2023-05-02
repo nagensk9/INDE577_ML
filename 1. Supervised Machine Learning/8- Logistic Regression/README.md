@@ -41,5 +41,3 @@ Logistic Regression models are evaluated using various metrics to assess their p
 
 - **Area Under the ROC Curve (AUC-ROC)**: AUC-ROC summarizes the performance of the model across all possible probability thresholds. It provides a single metric that represents the overall discriminative power of the model.
 
-## Conclusion
-Logistic Regression is a powerful and widely used algorithm for binary classification tasks. It leverages the sigmoid function to model the relationship between input features and the probability of the target variable belonging to a certain class. By estimating the optimal coefficients through training, Logistic Regression can make accurate predictions and provide insights into the importance of different features.
