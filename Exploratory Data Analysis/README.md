@@ -1,3 +1,4 @@
+# Exploratory Data Analysis
 <img src="https://github.com/nagensk9/INDE577_ML/blob/main/Images/EDA.png?raw=true" >
 
 Exploratory Data Analysis (EDA) is the process of examining and understanding the data to **discover patterns, relationships, and anomalies**. Following are our main objectives of performing EDA.
