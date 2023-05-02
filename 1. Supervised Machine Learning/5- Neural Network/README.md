@@ -6,6 +6,8 @@ Neural Networks are powerful machine learning models inspired by the structure a
 
 ## Introduction
 Neural Networks are a class of machine learning models that consist of interconnected artificial neurons, also known as nodes or units. These nodes are organized into layers, including an input layer, one or more hidden layers, and an output layer. Neural Networks are capable of learning complex patterns and relationships from data by adjusting the weights and biases associated with the connections between the nodes.
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" width=700></p>
+
 
 ## Neural Network Architecture
 The architecture of a Neural Network is defined by the number of layers, the number of nodes in each layer, and the connectivity pattern between the nodes. The most common architecture is the Feedforward Neural Network, where the information flows from the input layer to the output layer without cycles. However, there are other types of Neural Networks, such as Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs), designed for specific tasks.
