@@ -1,11 +1,9 @@
 
 # Logistic Regression
 
-## Overview
-Logistic Regression is a popular statistical method used for binary classification tasks. Despite its name, it is actually a classification algorithm rather than a regression algorithm. Logistic Regression is widely used in various domains, including medicine, finance, marketing, and social sciences. This comprehensive guide will provide an in-depth understanding of Logistic Regression, including its principles, model representation, training process, evaluation metrics, and implementation in Python.
-
 ## Introduction
 Logistic Regression is a supervised learning algorithm used for binary classification, where the target variable takes only two possible outcomes (e.g., True/False, Yes/No). It is based on the logistic function, also known as the sigmoid function, which maps any real-valued input to a value between 0 and 1. Logistic Regression models the relationship between the independent variables (features) and the probability of the target variable belonging to a certain class.
+<p align="center"><img src="https://www.saedsayad.com/images/LogReg_1.png" ></p>
 
 ## Model Representation
 The Logistic Regression model can be represented by the following equation:
