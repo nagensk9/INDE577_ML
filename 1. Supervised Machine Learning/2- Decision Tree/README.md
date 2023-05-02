@@ -4,6 +4,7 @@
 
 ## Introduction
 A Decision Tree is a flowchart-like structure that represents a series of decisions and their potential consequences. Each internal node of the tree represents a decision based on a specific feature, while the leaf nodes represent the outcomes or predicted values. Decision Trees are intuitive and easy to interpret, making them useful for both exploratory analysis and decision-making tasks.
+<p align="center"><img src="https://annalyzin.files.wordpress.com/2016/07/decision-trees-example-multiple-categories-tutorial2.png" width=600></p>
 
 ## Construction of Decision Trees
 The construction of a Decision Tree involves the following steps:
