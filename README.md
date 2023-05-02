@@ -1,6 +1,6 @@
 
 # INDE 577 Data Science and Machine Learning
-
+<img src="https://github.com/nagensk9/INDE577_ML/blob/main/Images/machine-learning.gif" width = 600>
 This repository contains code for performing exploratory data analysis (EDA) and implementing various machine learning models. The primary datasets used in this repository will be included in the `dataset` folder can be found [here](https://github.com/nagensk9/INDE577_ML/tree/main/Dataset).
 
 ## Exploratory Data Analysis
