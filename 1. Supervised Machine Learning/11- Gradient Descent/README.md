@@ -13,6 +13,7 @@ The Gradient Descent algorithm can be summarized in the following steps:
 4. Repeat steps 2 and 3 until convergence or a maximum number of iterations.
 
 The key concept behind Gradient Descent is to update the parameters in proportion to the negative gradient, as this direction leads to a decrease in the cost function.
+<p align="center"><img src="https://github.com/nagensk9/INDE577_ML/raw/main/Images/cost_function.gif?raw=true" ></p>
 
 ## Variants of Gradient Descent
 Gradient Descent comes in various variants that differ in the way they update the parameters. Some commonly used variants include:
