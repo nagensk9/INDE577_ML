@@ -2,7 +2,7 @@
 # Principal Component Analysis (PCA): Uncover the Essence of Your Data
 
 ## Introduction 
-<p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*ba0XpZtJrgh7UpzWcIgZ1Q.jpeg" ></p>
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*ba0XpZtJrgh7UpzWcIgZ1Q.jpeg" width=500 ></p>
 
 Imagine you have a dataset with numerous variables or features. It can be overwhelming to analyze and interpret such high-dimensional data. This is where PCA comes in. PCA is a statistical technique that transforms the original variables into a new set of uncorrelated variables called principal components. These principal components capture the maximum amount of variance in the data, enabling you to understand the essential aspects of the dataset.
 
