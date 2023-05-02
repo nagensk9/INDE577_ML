@@ -1,10 +1,7 @@
 
 # K-Nearest Neighbors (KNN): A Comprehensive Guide
+<p align="center"><img src="https://www.newtechdojo.com/wp-content/uploads/2020/06/KNN-1.gif" ></p>
 
-## Overview
-- K-Nearest Neighbors (KNN) is a simple yet powerful machine learning algorithm used for both classification and regression tasks.
-- KNN is based on the principle of similarity, where new instances are classified or predicted based on the majority vote or average of their k nearest neighbors.
-- This comprehensive guide will introduce you to K-Nearest Neighbors and provide an in-depth understanding of its working principles, distance metrics, hyperparameter selection, and implementation in Python.
 
 ## Introduction to K-Nearest Neighbors (KNN)
 K-Nearest Neighbors (KNN) is a non-parametric algorithm that makes predictions based on the similarity of instances in the feature space. KNN assumes that similar instances tend to have similar class labels or target values. The algorithm is called "K-Nearest Neighbors" because it considers the k nearest neighbors to make predictions.
